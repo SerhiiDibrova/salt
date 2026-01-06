@@ -1,5 +1,0 @@
-Template: salt-syndic/user
-Type: string
-Default: salt
-Description: User for salt-syndic
-  User to run the salt-syndic process as

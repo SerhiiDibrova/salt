@@ -1,5 +1,0 @@
-Template: salt-api/user
-Type: string
-Default: salt
-Description: User for salt-api
-  User to run the salt-api process as
